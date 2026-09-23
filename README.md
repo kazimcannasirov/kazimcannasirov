@@ -12,7 +12,7 @@
 - 🐍 Hazırda **Python** öyrənirəm — Harvard-ın **CS50P** kursu ilə təməllərimi möhkəmləndirirəm
 - 🎮 Tkinter ilə kiçik oyunlar və interaktiv layihələr yazmağı sevirəm
 - 🌱 Real problemləri kodla necə həll etmək lazım olduğunu öyrənmə prosesindəyəm
-- 📫 Mənimlə əlaqə: Linkedin: https://www.linkedin.com/in/kazim-nasirov-a02814328/
+- 📫 Mənimlə əlaqə: Linkedin: www.linkedin.com/in/kazimcannasirov
 
 ---
 
